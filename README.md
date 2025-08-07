@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **AndreRFBaT/AndreRFBaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Olá! Eu sou o Andre R F Batista
+## 👋 Olá! Eu sou o Andre R F Batista
 
-💻 Atualmente estudando: Engenharia de Software, Desenvolvimento Web e QA.  
+💻 Sou estudante de Engenharia de Computação, com foco em desenvolvimento Back-end e Front-end, engenharia de software, e Garantia de Qualidade (QA), buscando sempre entregar soluções robustas e eficientes.  
 🌱 Sempre aprendendo novas tecnologias  
 🚀 Projetos focados em Python, JavaScript, Vue.js e Node.js
 
